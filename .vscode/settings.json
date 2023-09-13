@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.sourcePaths": [
+        "second/secondjwt/src",
+        "second/secondjwt",
+        "second",
+        "users"
+    ]
+}
